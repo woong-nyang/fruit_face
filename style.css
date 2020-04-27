@@ -5,6 +5,11 @@ body {
   color: #35465d;
 }
 
+.sub-subtitle{
+	font-size: 0.8rem;
+	text-align: center;
+}
+
 .file-upload{
    padding: 15% 3%;
     margin: 0 auto;
